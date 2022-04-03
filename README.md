@@ -1,6 +1,6 @@
 <div align="center">
-   Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-   <i>Coding changes the world</i>
+   <i>Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+   Coding changes the world</i>
 </div>
 <!--
 **AlphaYu/alphayu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
