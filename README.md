@@ -1,6 +1,4 @@
-<div align="center">
-   <i>Talk is cheap. Show me the code.</i>
-</div>
+   🤔Talk is cheap. Show me the code.
 <!--
 **AlphaYu/alphayu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
